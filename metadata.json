@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent Student Data Platform | AI Forms & Multi-Export",
+  "description": "Upload student data via image, JSON, or XLSX. AI (for images) or a parser extracts info, generating editable forms. Download all data as JSON, XLSX, or HTML, with real-time AI thinking and processing progress updates.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
