@@ -1,5 +1,8 @@
+
+
+
 {
-  "name": "intelligent-student-data-platform-|-ai-forms-&-multi-export",
+  "name": "copy-of-gemini-ai-search-engine",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,10 +13,8 @@
   },
   "dependencies": {
     "react": "^19.1.0",
-    "@google/genai": "^1.5.1",
-    "react-dom/client": "^19.1.0",
     "react-dom": "^19.1.0",
-    "xlsx": "0.18.5"
+    "@google/genai": "^1.0.1"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
@@ -21,3 +22,4 @@
     "vite": "^6.2.0"
   }
 }
+
